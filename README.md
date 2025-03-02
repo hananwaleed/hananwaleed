@@ -101,18 +101,3 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hananwaleed&theme=monokai&utcOffset=8" alt="Productive Time" width="24%">
 </p>
 
----
-
-### ⚠ Note
-
-The `Top Languages` section is merely a representation of the languages used in my public repositories and does not indicate my proficiency or experience level.
-
----
-
-<div class="container">
-  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" alt="JavaScript">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" alt="Python">
-  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" alt="C++">
-  <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" alt="Java">
-  <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" alt="Go">
-</div>
